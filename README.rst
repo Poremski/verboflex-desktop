@@ -4,6 +4,14 @@ Verboflex Desktop
 
 image:icons/verboflex-64x64.png[Verboflex logo] *A verb conjugation tool*
 
+image:https://img.shields.io/badge/license-GPL-blue.svg["license badge",link="https://github.com/Poremski/verboflex-desktop/blob/master/LICENSE.rst"]
+image:https://img.shields.io/pypi/v/qutebrowser.svg?style=flat["version badge",link="https://pypi.python.org/pypi/qutebrowser/"]
+image:https://travis-ci.org/Poremski/verboflex-desktop.svg?branch=master["Build Status", link="https://travis-ci.org/Poremski/verboflex-desktop"]
+image:https://ci.appveyor.com/api/projects/status/4iynnjnog74ih2of/branch/master?svg=true["AppVeyor build status", link="https://ci.appveyor.com/project/Poremski/verboflex-desktop"]
+image:https://codecov.io/gh/Poremski/verboflex-desktop/coverage.svg?branch=master["coverage badge",link="https://codecov.io/gh/Poremski/verboflex-desktop?branch=master"]
+
+link:https://verboflex.com[website] | https://github.com/Poremski/verboflex-desktop/blob/master/doc/faq.rst[FAQ] | ttps://github.com/Poremski/verboflex-desktop/blob/master/CONTRIBUTING.rst[contributing] | link:https://github.com/Poremski/verboflex-desktop/releases[releases] | https://github.com/Poremski/verboflex-desktop/blob/master/doc/install.rst[installing]
+
 About the project
 =================
 Verboflex Desktop is a cross-platform desktop application written in Python 3
