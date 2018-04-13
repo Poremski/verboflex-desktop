@@ -2,15 +2,15 @@
 Verboflex Desktop
 =================
 
-image:icons/verboflex-64x64.png[Verboflex logo] *A verb conjugation tool*
+.. image:: icons/verboflex-64x64.png *A verb conjugation tool*
 
-image:https://img.shields.io/badge/license-GPL-blue.svg["license badge",link="https://github.com/Poremski/verboflex-desktop/blob/master/LICENSE.rst"]
-image:https://img.shields.io/pypi/v/qutebrowser.svg?style=flat["version badge",link="https://pypi.python.org/pypi/qutebrowser/"]
-image:https://travis-ci.org/Poremski/verboflex-desktop.svg?branch=master["Build Status", link="https://travis-ci.org/Poremski/verboflex-desktop"]
-image:https://ci.appveyor.com/api/projects/status/4iynnjnog74ih2of/branch/master?svg=true["AppVeyor build status", link="https://ci.appveyor.com/project/Poremski/verboflex-desktop"]
-image:https://codecov.io/gh/Poremski/verboflex-desktop/coverage.svg?branch=master["coverage badge",link="https://codecov.io/gh/Poremski/verboflex-desktop?branch=master"]
+.. image:: https://img.shields.io/badge/license-GPL-blue.svg :target: https://github.com/Poremski/verboflex-desktop/blob/master/LICENSE.rst
+.. image:: https://img.shields.io/pypi/v/qutebrowser.svg?style=flat :target: https://pypi.python.org/pypi/qutebrowser/
+.. image:: https://travis-ci.org/Poremski/verboflex-desktop.svg?branch=master :target: https://travis-ci.org/Poremski/verboflex-desktop
+.. image:: https://ci.appveyor.com/api/projects/status/4iynnjnog74ih2of/branch/master?svg=true :target: https://ci.appveyor.com/project/Poremski/verboflex-desktop
+.. image:: https://codecov.io/gh/Poremski/verboflex-desktop/coverage.svg?branch=master :target: https://codecov.io/gh/Poremski/verboflex-desktop?branch=master
 
-link:https://verboflex.com[website] | https://github.com/Poremski/verboflex-desktop/blob/master/doc/faq.rst[FAQ] | ttps://github.com/Poremski/verboflex-desktop/blob/master/CONTRIBUTING.rst[contributing] | link:https://github.com/Poremski/verboflex-desktop/releases[releases] | https://github.com/Poremski/verboflex-desktop/blob/master/doc/install.rst[installing]
+`website <https://verboflex.com>`_ | `FAQ <https://github.com/Poremski/verboflex-desktop/blob/master/doc/faq.rst>`_ | `contributing <https://github.com/Poremski/verboflex-desktop/blob/master/CONTRIBUTING.rst>`_ | `releases <https://github.com/Poremski/verboflex-desktop/releases>`_ | `installing <https://github.com/Poremski/verboflex-desktop/blob/master/doc/install.rst>`_
 
 About the project
 =================
@@ -69,7 +69,7 @@ which one can perform verb conjugation in Verboflex Desktop.
 | Swedish     | sv   |
 +-------------+------+
 | Turkish     | tr   |
-+-----------.-+------+
++-------------+------+
 
 Supported display languages
 ---------------------------
@@ -85,7 +85,7 @@ supported for the display language for the user interface in Verboflex Desktop.
 | Spanish     | es   |
 +-------------+------+
 | Swedish     | sv   |
-+-----------.-+------+
++-------------+------+
 
 Requirements
 ============
@@ -114,6 +114,6 @@ any warranty**; without even the implied warranty of **merchantability** or
 details.
 
 .. _Verboflex API: ttps://github.com/Poremski/verboflex-API
-.. _requirements.txt: https://github.com/Poremski/verboflex-python/blob/master/requirements.txt
-.. _CHANGELOG.srt: https://github.com/Poremski/verboflex-python/blob/master/CHANGELOG.rst
-.. _LICENSE.srt: https://github.com/Poremski/verboflex-python/blob/master/LICENSE.rst
+.. _requirements.txt: https://github.com/Poremski/verboflex-desktop/blob/master/requirements.txt
+.. _CHANGELOG.srt: https://github.com/Poremski/verboflex-desktop/blob/master/CHANGELOG.rst
+.. _LICENSE.srt: https://github.com/Poremski/verboflex-desktop/blob/master/LICENSE.rst
