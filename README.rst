@@ -25,7 +25,7 @@ About the project
 =================
 Verboflex Desktop is a cross-platform desktop application written in Python 3
 and it’s based on PyQt5. This application offers to the user an interface
-for the `Verboflex API`_ which offers verb conjugation in tens of
+for the `Verboflex API`_, which lets users conjugate verbs in tens of
 languages.
 
 Supported languages
