@@ -2,7 +2,9 @@
 Verboflex Desktop
 =================
 
-.. image:: icons/verboflex-64x64.png *A verb conjugation tool*
+|logo| *A verb conjugation tool*
+
+.. |logo| image:: icons/verboflex-64x64.png
 
 |license| |pypi| |travis| |appveyor| |codecov|
 
