@@ -6,11 +6,16 @@ Verboflex Desktop
 
 |license| |pypi| |travis| |appveyor| |codecov|
 
-.. |license| image:: https://img.shields.io/badge/license-GPL-blue.svg :target: https://github.com/Poremski/verboflex-desktop/blob/master/LICENSE.rst
-.. |pypi| image:: https://img.shields.io/pypi/v/?.svg?style=flat :target: https://pypi.python.org/pypi/verboflex-desktop/
-.. |travis| image:: https://travis-ci.org/Poremski/verboflex-desktop.svg?branch=master :target: https://travis-ci.org/Poremski/verboflex-desktop
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/4iynnjnog74ih2of/branch/master?svg=true :target: https://ci.appveyor.com/project/Poremski/verboflex-desktop
-.. |codecov| image:: https://codecov.io/gh/Poremski/verboflex-desktop/coverage.svg?branch=master :target: https://codecov.io/gh/Poremski/verboflex-desktop?branch=master
+.. |license| image:: https://img.shields.io/badge/license-GPL-blue.svg
+   :target: https://github.com/Poremski/verboflex-desktop/blob/master/LICENSE.rst
+.. |pypi| image:: https://img.shields.io/pypi/v/?.svg?style=flat
+   :target: https://pypi.python.org/pypi/verboflex-desktop/
+.. |travis| image:: https://travis-ci.org/Poremski/verboflex-desktop.svg?branch=master
+   :target: https://travis-ci.org/Poremski/verboflex-desktop
+.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/4iynnjnog74ih2of/branch/master?svg=true
+   :target: https://ci.appveyor.com/project/Poremski/verboflex-desktop
+.. |codecov| image:: https://codecov.io/gh/Poremski/verboflex-desktop/coverage.svg?branch=master
+   :target: https://codecov.io/gh/Poremski/verboflex-desktop?branch=master
 
 `website <https://verboflex.com>`_ | `FAQ <https://github.com/Poremski/verboflex-desktop/blob/master/doc/faq.rst>`_ | `contributing <https://github.com/Poremski/verboflex-desktop/blob/master/CONTRIBUTING.rst>`_ | `releases <https://github.com/Poremski/verboflex-desktop/releases>`_ | `installing <https://github.com/Poremski/verboflex-desktop/blob/master/doc/install.rst>`_
 
