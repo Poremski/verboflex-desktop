@@ -21,7 +21,9 @@
 # You should have received a copy of the GNU General Public License along with
 # this program.  If not, see <http://www.gnu.org/licenses/>.
 
-""" Simple launcher for Verboflex Desktop. """
+"""
+Simple launcher for Verboflex Desktop.
+"""
 
 import sys
 import verboflex.verboflex
